@@ -1,0 +1,7 @@
+Sample,Defect Type,Severity Score,Defect Area %,Class,Defect Regions Found
+sample_01,scratch,5.4,0.094,MINOR,5
+sample_02,missing_copper,23.0,0.285,MINOR,1
+sample_03,short_circuit,19.1,0.286,MINOR,1
+sample_04,scratch,7.0,0.055,MINOR,2
+sample_05,missing_copper,15.0,0.154,MINOR,1
+sample_06,short_circuit,8.4,0.305,MINOR,1
