@@ -123,4 +123,6 @@ Tested on a 718×402 PCB image (blue substrate, cyan-green copper traces). Coppe
   <br>
 - Arvin Lourdu V
   <br>
-Mini Project, B.E. Electronics and Communication Engineering
+Mini Project
+<br>
+B.E. Electronics and Communication Engineering
